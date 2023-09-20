@@ -1,6 +1,5 @@
 ## Gesture Volume Control
 
----
 ### Introduction
 This is a mini project for learning computer vision. It only demonstrates the basic idea of the project without refining all the details.
 
