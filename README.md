@@ -9,3 +9,7 @@ You can use whatever hand you like to do the volume control!
 
 You can press 'q' to exit the program.
 ### Demo
+
+
+https://github.com/Darrenheihei/GestureVolumeControl/assets/143731040/22d5cb73-de38-4994-9bf7-c0fc9d981df2
+
