@@ -6,4 +6,6 @@ This is a mini project for learning computer vision. It only demonstrates the ba
 You can use your thumb and index finger to control the volume of your device by adjusting the distance between them. Larger the distance, louder your device will be.
 
 You can use whatever hand you like to do the volume control!
+
+You can press 'q' to exit the program.
 ### Demo
